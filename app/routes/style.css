@@ -1,0 +1,18 @@
+.kartu {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 30px;
+  font-family: sans-serif;
+  background-color: black;
+  border-radius: 16px;
+  border: 2px solid #8b5cf6;
+}
+
+.judul {
+  color: #6d28d9;
+  text-align: center;
+}
+
+.subjudul {
+  color: #8b5cf6;
+}
